@@ -1,9 +1,5 @@
 # pascal homomorphicity
 
-[**** TL;DR]
- 鯖にアクセスすると`c_0 = pow(1 + n, key, n**2)`を表示した後、数値入力を要求し、入力して送ると`c = pow(1+n, input, n**2)`を表示する
- [$ (1+n)^k \equiv 1 + kn \mod n^2]を利用すれば、ユーザー入力から逆算して`n`が判明するので`c_0`から`key`を逆算して瞬殺
-
 | score	| genre |
 | ----  | ----  |
 | 333	| Crypto |
